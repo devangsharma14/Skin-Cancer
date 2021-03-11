@@ -11,3 +11,5 @@ perform data transformation
 input data to trained model
 
 return data to the app
+
+Mobile App-->S3-->Flask API-->Mobile App
